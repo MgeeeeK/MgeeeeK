@@ -1,16 +1,26 @@
-### Hi there 👋
+## Welcome, please take the blessings of the Holy Cow!
 
-<!--
-**MgeeeeK/MgeeeeK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+\|/         \(__)/
+     `\------(oo)
+       ||    (__) mooooo... USE ARCH AND GIT GUD... mooooo
+       ||w--||
+                 \|/
+   \|/
+```
 
-Here are some ideas to get you started:
+## Now that you have taken all the blessings, let's talk about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey!! My name is Mragank Shekhar
+
+- 😄 Pronouns: He/Him
+- 🔭 Currently working with **JavaScript**, **Java** and **Python**
+- 👯 Looking to collaborate on **web-apps** and **data Science related packages**
+- 🌱 Currently learning **ELK stack** and **GraphQL**
+- ⚡ Not so fun fact: ***USE ARCH AND GIT GUD***
+- ℹ️ Find out more (probably outdated): [**mgeeeek.github.io**](https://mgeeeek.github.io/)
+- 🤝 Connect with me on: [**LinkedIn**](https://www.linkedin.com/in/mgeeeek), [**Twitter**](https://twitter.com/infinitecringe)
+
+<br/>
+
+</a> ![](https://visitor-badge.glitch.me/badge?page_id=MgeeeeK/MgeeeeK)
