@@ -19,7 +19,7 @@
 - 🌱 Currently learning **ELK stack** and **GraphQL**
 - ⚡ Not so fun fact: ***USE ARCH AND GIT GUD***
 - ℹ️ Find out more (probably outdated): [**mgeeeek.github.io**](https://mgeeeek.github.io/)
-- 🤝 Connect with me on: [**LinkedIn**](https://www.linkedin.com/in/mgeeeek), [**Twitter**](https://twitter.com/infinitecringe)
+- 🤝 Connect with me on: [**LinkedIn**](https://www.linkedin.com/in/mgeeeek)
 
 <br/>
 
